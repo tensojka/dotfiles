@@ -1,0 +1,7 @@
+[user]
+	name = Ondřej Sojka
+	email = ondrej.sojka@gmail.com
+
+[alias]
+	amend = commit --amend
+
