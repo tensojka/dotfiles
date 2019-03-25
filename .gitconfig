@@ -4,4 +4,7 @@
 
 [alias]
 	amend = commit --amend
+	pushf = push --force-with-lease
 
+[credential]
+	helper = cache --timeout=3600
