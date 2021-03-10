@@ -1,0 +1,15 @@
+/* hides the native tabs */
+#TabsToolbar {
+  display:none !important;
+  visibility: collapse;
+}
+
+#tabbrowser-tabs { visibility: collapse !important; } 
+
+#titlebar {
+  visibility: collapse;
+}
+
+#sidebar-header {
+  visibility: collapse !important;
+} 
